@@ -7,4 +7,5 @@ app-script-ch11@challenge02:~$ ./ch11 #executer le programme le flag devrais s'a
 env = environnement
 ls = liste le contenu d'un répertoire
 cat = lire un contenu textuel
-PATH = var d'environnement'
+PATH = var d'environnement
+toujours plus fun de faire sois meme le challenge vener ici que si vous etes vraiment bloquer ou si vous avez terminer.'
