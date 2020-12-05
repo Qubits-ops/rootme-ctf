@@ -7,7 +7,7 @@ app-script-ch12@challenge02:~$ /challenge/app-script/ch12/ch12
 
 :rappel legende:
 mkdir = creer dossier
-echo = afficher
+echo(afficher) = afficher
 chmod = permet de changer les permissions d'accès d'un fichier ou d'un répertoire.
 export = ajouter un répertoire au Path sur Linux.
 
